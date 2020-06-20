@@ -1,0 +1,14 @@
+.dockerignore
+.editorconfig
+.gitignore
+Dockerfile
+Jenkinsfile
+k8sAppConfig.yaml
+k8sAppInitJob.yaml
+k8sAppDeploy.yaml
+k8sAppConfig_generate.yaml
+k8sAppInitJob_generate.yaml
+k8sAppDeploy_generate.yaml
+docker-data
+
+
